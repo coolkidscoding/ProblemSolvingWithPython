@@ -169,11 +169,7 @@
   > **Homework**: Login to JupyterHub and open the notebook called "Lesson11Homework".
 
 + **Lesson 12: Problem #10** 
->  This is the last class of this course.  In this course we are going to work on the solution to a problem.  In this class however the students will work on the solution on their own:
-    + Understand the problem
-    + Create a strategy to solve the problem
-    + Implement the solution
-    + Check answer
+>  This is the last class of this course.  In this course we are going to work on the solution to a problem.  In this class however the students will work on the solution on their own.
 
 ---
 ##### For questions contact _jimmy@coolkidscodingschool.com_
