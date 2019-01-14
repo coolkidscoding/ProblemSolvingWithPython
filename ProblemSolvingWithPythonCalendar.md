@@ -1,0 +1,77 @@
+# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Calendar: **Problem Solving With Python**<br>  Winter 2019
+---
+> **Class Code: PS001 (Mondays)**
++ Class #1
+  + January 14th
++ Class #2
+  + January 28th
++ Class #3
+  + February 4th
++ Class #4
+  + February 11th
++ Class #5
+  + February 25th
++ Class #6
+  + March 4th
++ Class #7
+  + March 25th
++ Class #8
+  + April 1st
++ Class #9
+  + April 8th
++ Class #10
+  + April 15th
++ Class #11
+  + April 22nd
++ Class #12
+  + April 29th
+> **Class Code: PS002 (Wednesdays)**
++ Class #1
+  + January 16th
++ Class #2
+  + January 23rd
++ Class #3
+  + January 30th
++ Class #4
+  + February 6th
++ Class #5
+  + February 13th
++ Class #6
+  + February 20th
++ Class #7
+  + February 27th
++ Class #8
+  + March 6th
++ Class #9
+  + March 27th
++ Class #10
+  + April 3rd
++ Class #11
+  + April 10nd
++ Class #12
+  + April 17th
+> **Class Code: PS003 (Fridays)**
++ Class #1
+  + January 18th
++ Class #2
+  + January 25th
++ Class #3
+  + February 1st
++ Class #4
+  + February 8th
++ Class #5
+  + February 22nd
++ Class #6
+  + March 1st
++ Class #7
+  + March 8th
++ Class #8
+  + March 29th
++ Class #9
+  + April 5th
++ Class #10
+  + April 12th
++ Class #11
+  + April 26nd
++ Class #12
+  + May 3rd
