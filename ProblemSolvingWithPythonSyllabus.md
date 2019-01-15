@@ -12,9 +12,8 @@
     + int
     + string
     + boolean
-  > Naming variables
-    + Naming variables
-      + Reserved words
+  + Naming variables
+    + Reserved words
   + Operators
     + Arithmetic operators
       + addition
@@ -60,13 +59,12 @@
   > Discuss creation of data structures
   > Discuss adding elements to data structures
   > Discuss accessing elements in data structures
-    + indexing
-    + slicing
+  + indexing
+  + slicing
   > Discuss searching for elements in data structures
 
-  > **In Class**: Various exercises that will give the student a comfort level with operators and data structures.  In these exercises the student will create, populate, search, access, and generate other information about the data structure. 
-
-  > **Homework**: Login to JupyterHub, navigate to the class materials for Lesson1 and open the notebook related to this lesson.  This is a homework where you can practice data structure manipulation.Follow the instructions in the notebook.
+> **In Class**: Various exercises that will give the student a comfort level with operators and data structures.  In these exercises the student will create, populate, search, access, and generate other information about the data structure. 
+> **Homework**: Login to JupyterHub, navigate to the class materials for Lesson1 and open the notebook related to this lesson.  This is a homework where you can practice data structure manipulation.Follow the instructions in the notebook.
   
 + **Lesson 2: Review Looping and Conditional Statements**
   > Discuss code blocks and indentation
@@ -83,93 +81,92 @@
   + _elif_
   + _else_
 
-  > **In Class**: Various exercises using looping and flow of control.  
-
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".  Various exercises to reinforce the concepts of looping and flow control.  
+> **In Class**: Various exercises using looping and flow of control.  
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".  Various exercises to reinforce the concepts of looping and flow control.  
 
 + **Lesson 3: Problem #1** 
->  Spend entire lesson working on:
-    + Understand the problem
-    + Create a strategy to solve the problem
-    + Implement the solution
-    + Check answer
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
 
 + **Lesson 4: Problem #2** 
->  Spend entire lesson working on:
-    + Understand the problem
-    + Create a strategy to solve the problem
-    + Implement the solution
-    + Check answer
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson4Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
 
 + **Lesson 5: Problem #3** 
->  Spend entire lesson working on:
-    + Understand the problem
-    + Create a strategy to solve the problem
-    + Implement the solution
-    + Check answer
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson5Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
 
 + **Lesson 6: Problem #4** 
->  Spend entire lesson working on:
-    + Understand the problem
-    + Create a strategy to solve the problem
-    + Implement the solution
-    + Check answer
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
 
 + **Lesson 7: Problem #5** 
->  Spend entire lesson working on:
-    + Understand the problem
-    + Create a strategy to solve the problem
-    + Implement the solution
-    + Check answer
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".
 
 + **Lesson 8: Problem #6** 
->  Spend entire lesson working on:
-    + Understand the problem
-    + Create a strategy to solve the problem
-    + Implement the solution
-    + Check answer
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson8Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson8Homework".
 
 + **Lesson 9: Problem #7** 
->  Spend entire lesson working on:
-    + Understand the problem
-    + Create a strategy to solve the problem
-    + Implement the solution
-    + Check answer
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".
 
 + **Lesson 10: Problem #8** 
->  Spend entire lesson working on:
-    + Understand the problem
-    + Create a strategy to solve the problem
-    + Implement the solution
-    + Check answer
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".
 
 + **Lesson 11: Problem #9** 
->  Spend entire lesson working on:
-    + Understand the problem
-    + Create a strategy to solve the problem
-    + Implement the solution
-    + Check answer
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
 
-  > **Homework**: Login to JupyterHub and open the notebook called "Lesson11Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson11Homework".
 
 + **Lesson 12: Problem #10** 
->  This is the last class of this course.  In this course we are going to work on the solution to a problem.  In this class however the students will work on the solution on their own.
+> This is the last class of this course.  In this course we are going to work on the solution to a problem.  In this class however the students will work on the solution on their own.
 
 ---
 ##### For questions contact _jimmy@coolkidscodingschool.com_

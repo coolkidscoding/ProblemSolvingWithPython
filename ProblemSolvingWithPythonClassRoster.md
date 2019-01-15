@@ -6,7 +6,7 @@
 | Last Name | First Name | UserID | StudentID# | Session |
 |:---|:-----------|:--|:--|:--|
 | Zwirn     | James      |  _jzwirn_ | 010 | PS001 |
-| Prabhu    | Ram        |  _rprabhu_ | 011 | PS001 |
+| Bhaman    | Ram        |  _rprabhu_ | 011 | PS001 |
 | Rizos     | Nikolas    |  _nrizos_ | 001 |PS002 |
 | Yoon      | Maddie     |  _myoon_ | 005 | PS002 |
 | Jebaily | Catherine  | _cjebaily_ | 017 | PS002  |
