@@ -66,7 +66,7 @@
 + Class #7
   + March 8th
 + Class #8
-  + March 29th
+  + **TBD**
 + Class #9
   + April 5th
 + Class #10
