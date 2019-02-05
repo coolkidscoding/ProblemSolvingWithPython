@@ -1,6 +1,6 @@
 # <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Calendar: **Problem Solving With Python**<br>  Winter 2019
 ---
-> **Class Code: PS001 (Mondays)**
+> **Class Code: PS1901 (Mondays)**
 + Class #1
   + January 14th
 + Class #2
@@ -25,7 +25,7 @@
   + April 22nd
 + Class #12
   + April 29th
-> **Class Code: PS002 (Wednesdays)**
+> **Class Code: PS1902 (Wednesdays)**
 + Class #1
   + January 16th
 + Class #2
@@ -50,7 +50,7 @@
   + April 10nd
 + Class #12
   + April 17th
-> **Class Code: PS003 (Fridays)**
+> **Class Code: PS1903 (Fridays)**
 + Class #1
   + January 18th
 + Class #2

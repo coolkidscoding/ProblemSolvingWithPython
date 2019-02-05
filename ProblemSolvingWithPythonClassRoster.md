@@ -5,15 +5,15 @@
 
 | Last Name | First Name | UserID | StudentID# | Session |
 |:---|:-----------|:--|:--|:--|
-| Zwirn     | James      |  _jzwirn_ | 010 | PS001 |
-| Bhaman    | Ram        |  _rprabhu_ | 011 | PS001 |
-| Chia | Nico  | _nchia_ | 012 | PS001  |
-| Rizos     | Nikolas    |  _nrizos_ | 001 |PS002 |
-| Yoon      | Maddie     |  _myoon_ | 005 | PS002 |
-| Jebaily | Catherine  | _cjebaily_ | 017 | PS002  |
-| Amarasinghe | Ellan  | _emarasinghe_ | 013 | PS003  |
-| Urias | Betsy  | _burias_ | 014 | PS003  |
-| Divya | Agarwal  | _dagarwal_ | 020 | PS003  |
+| Zwirn     | James      |  _jzwirn_ | 010 | PS1901 |
+| Bhaman    | Ram        |  _rprabhu_ | 011 | PS1901 |
+| Chia | Nico  | _nchia_ | 012 | PS1901  |
+| Rizos     | Nikolas    |  _nrizos_ | 001 |PS1902 |
+| Yoon      | Maddie     |  _myoon_ | 005 | PS1902 |
+| Jebaily | Catherine  | _cjebaily_ | 017 | PS1902  |
+| Amarasinghe | Ellan  | _emarasinghe_ | 013 | PS1903  |
+| Urias | Betsy  | _burias_ | 014 | PS1903  |
+| Divya | Agarwal  | _dagarwal_ | 020 | PS1903  |
 
 ---
 ##### Registration is now closed for this session. <br> <center>Updated January 17, 2019

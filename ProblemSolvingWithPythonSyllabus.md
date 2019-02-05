@@ -84,7 +84,7 @@
 > **In Class**: Various exercises using looping and flow of control.  
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".  Various exercises to reinforce the concepts of looping and flow control.  
 
-+ **Lesson 3: Problem #1** 
++ **Lesson 3: Problem #1 Fibonacci Sequence** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -93,7 +93,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
 
-+ **Lesson 4: Problem #2** 
++ **Lesson 4: Problem #2 Sieve of Eratosthenes** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
