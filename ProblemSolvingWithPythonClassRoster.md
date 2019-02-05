@@ -13,7 +13,7 @@
 | Jebaily | Catherine  | _cjebaily_ | 017 | PS1902  |
 | Amarasinghe | Ellan  | _emarasinghe_ | 013 | PS1903  |
 | Urias | Betsy  | _burias_ | 014 | PS1903  |
-| Divya | Agarwal  | _dagarwal_ | 020 | PS1903  |
+| Agarwal | Divya | _dagarwal_ | 020 | PS1903  |
 
 ---
 ##### Registration is now closed for this session. <br> <center>Updated January 17, 2019
