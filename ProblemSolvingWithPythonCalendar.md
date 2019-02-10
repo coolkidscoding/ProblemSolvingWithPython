@@ -1,15 +1,15 @@
 # <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Calendar: **Problem Solving With Python**<br>  Winter 2019
 ---
-> **Class Code: PS1901 (Mondays)**
-+ Class #1
+> **Class Code: PS1901 (Monday Session )**
++ Class #1 (**Review Part1 Operators/Variables/Data Structures**)
   + January 14th
-+ Class #2
++ Class #2 (**Review Part2 Loops/Conditionals/Functions**)
   + January 28th
-+ Class #3
++ Class #3 (**Problem #1 Fibonacci Sequence**)
   + February 4th
-+ Class #4
++ Class #4 (**Problem #2 Sieve of Eratosthenes**)
   + February 11th
-+ Class #5
++ Class #5 (**Problem #3 Probability**)
   + February 25th
 + Class #6
   + March 4th
@@ -25,16 +25,16 @@
   + April 22nd
 + Class #12
   + April 29th
-> **Class Code: PS1902 (Wednesdays)**
-+ Class #1
+> **Class Code: PS1902 (Wednesday Session)**
++ Class #1 (**Review Part1 Operators/Variables/Data Structures**)
   + January 16th
-+ Class #2
++ Class #2 (**Review Part2 Loops/Conditionals/Functions**)
   + January 23rd
-+ Class #3
++ Class #3 (**Problem #1 Fibonacci Sequence**)
   + January 30th
-+ Class #4
++ Class #4 (**Problem #2 Sieve of Eratosthenes**)
   + February 6th
-+ Class #5
++ Class #5 (**Problem #3 Probability**)
   + February 13th
 + Class #6
   + February 20th
@@ -50,23 +50,27 @@
   + April 10nd
 + Class #12
   + April 17th
-> **Class Code: PS1903 (Fridays)**
-+ Class #1
+> **Class Code: PS1903 (Friday Session)**
++ Class #1 (**Review Part1 Operators/Variables/Data Structures**)
   + January 18th
-+ Class #2
+  + UWS
++ Class #2 (**Review Part2 Loops/Conditionals/Functions**)
   + January 25th
-+ Class #3
+  + UWS
++ Class #3 (**Problem #1 Fibonacci Sequence**)
   + February 1st
-+ Class #4
+  + UES
++ Class #4 (**Problem #2 Sieve of Eratosthenes**)
   + February 8th
-+ Class #5
+  + UES
++ Class #5 (**Problem #3 Probability**)
   + February 22nd
 + Class #6
   + March 1st
 + Class #7
   + March 8th
 + Class #8
-  + **TBD**
+  + March 29th
 + Class #9
   + April 5th
 + Class #10
