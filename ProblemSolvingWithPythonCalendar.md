@@ -54,18 +54,15 @@
   + February 13th
   + UES
 + Class #6 (**Problem #3 Probability**) (Session 1)
-  + February 20th (Catherine absent)
-  + UES
-+ Class #7
   + February 27th
   + UES
-+ Class #8
++ Class #7
   + March 6th
   + UES
 + Class #8
   + March 13th
   + UES
-+ Class #6  (Session 2)
++ Class (**Workshop**)
   + March 20th (Maddie absent)
   + UES
 + Class #9
@@ -74,7 +71,7 @@
 + Class #10
   + April 10nd
   + UES
-+ Class (Workshop)
++ Class (**Workshop**)
   + April 17th (Catherine absent)
   + UES
 + Class #11
