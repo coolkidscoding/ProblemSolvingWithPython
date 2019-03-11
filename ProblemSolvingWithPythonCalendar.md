@@ -16,10 +16,10 @@
 + Class #5 (**Problem #3 Probability**)
   + February 25th
   + UWS
-+ Class #6
++ Class #6 (**Problem #4 Permutations and Combinations**)
   + March 4th
   + UWS
-+ Class #7
++ Class #7 (**Problem #5 Time Series Analysis**)
   + March 11th
   + UWS
 + Class #8
@@ -53,19 +53,19 @@
 + Class #5 (**Workshop**)
   + February 13th
   + UES
-+ Class #6 (**Problem #3 Probability**) (Session 1)
++ Class #6 (**Problem #3 Probability**)
   + February 27th
   + UES
-+ Class #7
++ Class #7 (**Workshop**)
   + March 6th
   + UES
-+ Class #8
++ Class #8 (**Problem #4 Permutations and Combinations**)
   + March 13th
   + UES
-+ Class (**Workshop**)
++ Class (**Problem #5 Time Series Analysis**)
   + March 20th (Maddie absent)
   + UES
-+ Class #9
++ Class #9 
   + April 3rd
   + UES
 + Class #10
@@ -95,17 +95,21 @@
   + UES
 + Class #5 (**Problem #3 Probability**)
   + February 22nd (6pm start)
-+ Class #6
+  + UES
++ Class #6 (**Problem #4 Permutations and Combinations**)
   + March 8th
-+ Class #7
+  + UWS
++ Class #7 (**Problem #5 Time Series Analysis**)
   + March 15th
+  + UWS
 + Class #8
   + March 22nd
+  + UWS
 + Class #9
   + April 5th
 + Class #10
   + April 12th
 + Class #11
   + April 26nd
-+ Class #12
++ Class #12 (**Final Project**)
   + May 3rd
