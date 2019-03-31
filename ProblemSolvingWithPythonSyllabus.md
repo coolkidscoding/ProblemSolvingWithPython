@@ -102,7 +102,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
 
-+ **Lesson 5: Problem #3** 
++ **Lesson 5: Problem #3 Probability** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -111,7 +111,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
 
-+ **Lesson 6: Problem #4** 
++ **Lesson 6: Problem #4 Permutations and Combinations** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -120,7 +120,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
 
-+ **Lesson 7: Problem #5** 
++ **Lesson 7: Problem #5 Time Series Analysis** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -129,7 +129,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".
 
-+ **Lesson 8: Problem #6** 
++ **Lesson 8: Problem #6 Calculating Pi Using Monte Carlo** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem

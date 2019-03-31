@@ -22,7 +22,7 @@
 + Class #7 (**Problem #5 Time Series Analysis**)
   + March 11th
   + UWS
-+ Class #8
++ Class #8 (**Calculate Pi Using Monte Carlo**)
   + April 1st
   + UWS
 + Class #9
@@ -65,7 +65,7 @@
 + Class (**Problem #5 Time Series Analysis**)
   + March 20th (Maddie absent)
   + UES
-+ Class #9 
++ Class #9 (**Calculate Pi Using Monte Carlo**)
   + April 3rd
   + UES
 + Class #10
@@ -102,7 +102,7 @@
 + Class #7 (**Problem #5 Time Series Analysis**)
   + March 15th
   + UWS
-+ Class #8
++ Class #8 (**Calculate Pi Using Monte Carlo**)
   + March 22nd
   + UWS
 + Class #9
