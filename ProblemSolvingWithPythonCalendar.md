@@ -103,13 +103,13 @@
   + March 15th
   + UWS
 + Class #8 (**Calculate Pi Using Monte Carlo**)
-  + March 22nd
-  + UWS
-+ Class #9
   + April 5th
-+ Class #10
+  + UWS
++ Class #9 
   + April 12th
++ Class #10
+  + April 26th
 + Class #11
-  + April 26nd
-+ Class #12 (**Final Project**)
   + May 3rd
++ Class #12 (**Final Project**)
+  + May 10th
