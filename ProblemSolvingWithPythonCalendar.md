@@ -1,6 +1,8 @@
 # <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Calendar: **Problem Solving With Python**<br>  Winter 2019
+
 ---
 > **Class Code: PS1901 (Monday Session )**
+
 + Class #1 (**Review Part1 Operators/Variables/Data Structures**)
   + January 14th
   + UWS
@@ -25,25 +27,27 @@
 + Class #8 (**Calculate Pi Using Monte Carlo**)
   + April 1st
   + UWS
-+ Class #9
-  + April 8th
-  + UWS
-+ Class #10
++ Class #9 (**Calculate Pi Using Monte Carlo**)
   + April 15th
   + UWS
-+ Class #11
++ Class #10
   + April 22nd
   + UWS
-+ Class #12 (**Final Project**)
++ Class #11
   + April 29th
   + UWS
++ Class #12 (**Final Project**)
+  + May 6th
+  + UWS
+
 > **Class Code: PS1902 (Wednesday Session)**
+
 + Class #1 (**Review Part1 Operators/Variables/Data Structures**)
   + January 16th
-  + UES 
+  + UES
 + Class #2 (**Review Part2 Loops/Conditionals/Functions**)
   + January 23rd
-  + UES 
+  + UES
 + Class #3 (**Problem #1 Fibonacci Sequence**)
   + January 30th
   + UES
@@ -68,7 +72,7 @@
 + Class #9 (**Calculate Pi Using Monte Carlo**)
   + April 3rd
   + UES
-+ Class #10
++ Class #10 (**Date Math**)
   + April 10nd
   + UES
 + Class (**Workshop**)
@@ -80,7 +84,9 @@
 + Class #12 (**Final Project**)
   + May 1st
   + UES
+
 > **Class Code: PS1903 (Friday Session)**
+
 + Class #1 (**Review Part1 Operators/Variables/Data Structures**)
   + January 18th
   + UWS
@@ -103,13 +109,13 @@
   + March 15th
   + UWS
 + Class #8 (**Calculate Pi Using Monte Carlo**)
-  + April 5th
-  + UWS
-+ Class #9 
   + April 12th
-+ Class #10
+  + UWS
++ Class #9
   + April 26th
-+ Class #11
++ Class #10
   + May 3rd
++ Class #11
+  + May 10th
 + Class #12 (**Final Project**)
   + May 10th
