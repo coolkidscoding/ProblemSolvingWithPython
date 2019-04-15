@@ -30,7 +30,7 @@
 + Class #9 (**Calculate Pi Using Monte Carlo**)
   + April 15th
   + UWS
-+ Class #10
++ Class #10 (**Date Math**)
   + April 22nd
   + UWS
 + Class #11
@@ -66,23 +66,26 @@
 + Class #8 (**Problem #4 Permutations and Combinations**)
   + March 13th
   + UES
-+ Class (**Problem #5 Time Series Analysis**)
++ Class #9 (**Problem #5 Time Series Analysis**)
   + March 20th (Maddie absent)
   + UES
-+ Class #9 (**Calculate Pi Using Monte Carlo**)
++ Class #10 (**Calculate Pi Using Monte Carlo**)
   + April 3rd
   + UES
-+ Class #10 (**Date Math**)
++ Class #11 (**Date Math**)
   + April 10nd
   + UES
-+ Class (**Workshop**)
++ Class #12 (**Workshop**)
   + April 17th (Catherine absent)
   + UES
-+ Class #11
++ Class #13
   + April 24th
   + UES
-+ Class #12 (**Final Project**)
++ Class #14 (**Final Project**)
   + May 1st
+  + UES
++ Class #15 (**Maddie and Katherine make up session**)
+  + May 8th
   + UES
 
 > **Class Code: PS1903 (Friday Session)**
@@ -118,4 +121,4 @@
 + Class #11
   + May 10th
 + Class #12 (**Final Project**)
-  + May 10th
+  + May 17th
