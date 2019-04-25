@@ -33,7 +33,7 @@
 + Class #10 (**Date Math**)
   + April 22nd
   + UWS
-+ Class #11
++ Class #11 (**Workshop**)
   + April 29th
   + UWS
 + Class #12 (**Final Project**)
@@ -78,14 +78,17 @@
 + Class #12 (**Workshop**)
   + April 17th (Catherine absent)
   + UES
-+ Class #13
++ Class #13 (**Project Euler**)
   + April 24th
   + UES
-+ Class #14 (**Final Project**)
-  + May 1st
-  + UES
-+ Class #15 (**Maddie and Katherine make up session**)
++ Class #14 (**Workshop**)
   + May 8th
+  + UES
++ Class #15 (**Workshop**)
+  + May 15th
+  + UES
++ Class #16 (**Final Project**)
+  + May 22nd
   + UES
 
 > **Class Code: PS1903 (Friday Session)**
@@ -114,11 +117,11 @@
 + Class #8 (**Calculate Pi Using Monte Carlo**)
   + April 12th
   + UWS
-+ Class #9
++ Class #9 (**Date Math**)
   + April 26th
-+ Class #10
++ Class #10 (**Workshop**)
   + May 3rd
-+ Class #11
++ Class #11 (**Workshop**)
   + May 10th
 + Class #12 (**Final Project**)
   + May 17th
