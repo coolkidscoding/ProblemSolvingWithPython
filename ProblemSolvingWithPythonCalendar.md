@@ -121,7 +121,7 @@
   + April 26th
 + Class #10 (**Workshop**)
   + May 3rd
-+ Class #11 (**Workshop**)
++ Class #11 (**Project Euler**)
   + May 10th
 + Class #12 (**Final Project**)
   + May 17th
