@@ -24,13 +24,13 @@
 + Class #7 (**Problem #5 Time Series Analysis**)
   + March 11th
   + UWS
-+ Class #8 (**Calculate Pi Using Monte Carlo**)
++ Class #8 (**Problem #6 Calculate Pi Using Monte Carlo**)
   + April 1st
   + UWS
-+ Class #9 (**Calculate Pi Using Monte Carlo**)
++ Class #9 (**Problem #6 Calculate Pi Using Monte Carlo**)
   + April 15th
   + UWS
-+ Class #10 (**Date Math**)
++ Class #10 (**Problem #7 Date Math**)
   + April 22nd
   + UWS
 + Class #11 (**Workshop**) 
@@ -69,16 +69,16 @@
 + Class #9 (**Problem #5 Time Series Analysis**)
   + March 20th (Maddie absent)
   + UES
-+ Class #10 (**Calculate Pi Using Monte Carlo**)
++ Class #10 (**Problem #6 Calculate Pi Using Monte Carlo**)
   + April 3rd
   + UES
-+ Class #11 (**Date Math**)
++ Class #11 (**Problem #7 Date Math**)
   + April 10nd
   + UES
 + Class #12 (**Workshop**)
   + April 17th (Catherine absent)
   + UES
-+ Class #13 (**Project Euler**)
++ Class #13 (**Problem #8 Project Euler**)
   + April 24th
   + UES
 + Class #14 (**Workshop**)
@@ -114,14 +114,18 @@
 + Class #7 (**Problem #5 Time Series Analysis**)
   + March 15th
   + UWS
-+ Class #8 (**Calculate Pi Using Monte Carlo**)
++ Class #8 (**Problem #6 Calculate Pi Using Monte Carlo**)
   + April 12th
   + UWS
-+ Class #9 (**Date Math**)
++ Class #9 (**Problem #7 Date Math**)
   + April 26th
+  + UES
 + Class #10 (**Workshop**)
   + May 3rd
-+ Class #11 (**Project Euler**)
+  + UES
++ Class #11 (**Problem #8 Project Euler**)
   + May 10th
+  + UES
 + Class #12 (**Final Project**)
   + May 17th
+  + UES
