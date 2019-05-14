@@ -33,7 +33,7 @@
 + Class #10 (**Date Math**)
   + April 22nd
   + UWS
-+ Class #11 (**Workshop**)
++ Class #11 (**Workshop**) 
   + April 29th
   + UWS
 + Class #12 (**Final Project**)
