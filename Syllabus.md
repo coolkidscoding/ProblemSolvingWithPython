@@ -1,4 +1,4 @@
-# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Syllabus: **Problem Solving With Python**<br>  Winter 2019
+# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Syllabus: **Problem Solving With Python**<br>  Spring 2019
 ---
 
 + **Lesson 1:  Review: Variables and Operators/Data Structures**
