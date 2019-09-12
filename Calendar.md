@@ -27,16 +27,16 @@
 + Class #8 (**Problem #6 Calculate Pi Using Monte Carlo**)
   + TBD
   + TBD
-+ Class #9 (**Problem #6 Calculate Pi Using Monte Carlo**)
++ Class #9 (**Problem #7 Date Math**)
   + TBD
   + TBD
-+ Class #10 (**Problem #7 Date Math**)
++ Class #10 (**Problem #8 Project Euler Questions**)
   + TBD
   + TBD
-+ Class #11 (**TBD**) 
++ Class #11 (**Problem #9 Workshop**) 
   + TBD
   + TBD
-+ Class #12 (**TBD**)
++ Class #12 (**Final Test**)
   + TBD
   + TBD
 

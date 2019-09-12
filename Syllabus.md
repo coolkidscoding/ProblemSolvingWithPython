@@ -84,7 +84,7 @@
 > **In Class**: Various exercises using looping and flow of control.  
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".  Various exercises to reinforce the concepts of looping and flow control.  
 
-+ **Lesson 3: Problem #1 Fibonacci Sequence** 
++ **Lesson 3: Problem #1 Fibonacci Numbers** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -129,7 +129,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".
 
-+ **Lesson 8: Problem #6 Calculating Pi Using Monte Carlo** 
++ **Lesson 8: Problem #6 Calculating Pi Using Monte Carlo Simulation** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -138,7 +138,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson8Homework".
 
-+ **Lesson 9: Problem #7** 
++ **Lesson 9: Problem #7 Date Math** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -147,7 +147,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".
 
-+ **Lesson 10: Problem #8** 
++ **Lesson 10: Problem #8 Project Euler Questions** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -156,7 +156,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".
 
-+ **Lesson 11: Problem #9** 
++ **Lesson 11: Problem #9 Workshop** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
