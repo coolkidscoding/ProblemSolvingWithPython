@@ -5,8 +5,9 @@
 
 | Last Name | First Name | UserID | StudentID# | Session |
 |:---|:-----------|:--|:--|:--|
-| TBD     | TBD      |  _TBD_ | TBD | TBD |
+| Salvatore     | Alex      |  _asalvatore_ | 026 | PS1904 |
+| Hayden     | Finn      |  _fhayden_ | 027 | PS1904 |
 
 ---
 
-#### Registration is now OPEN for this session. <br> <center>Updated August 6, 2019
+#### Registration is now OPEN for this session. <br> <center>Updated September 20, 2019
