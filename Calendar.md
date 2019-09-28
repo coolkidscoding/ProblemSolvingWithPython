@@ -2,6 +2,7 @@
 
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 > **Class Code: PS1904 (TBD)**
 
 + Class #1 (**Review Part1 Operators/Variables/Data Structures**)
@@ -37,6 +38,43 @@
 + Class #11 (**Problem #9 Workshop**) 
   + 12/21/2019
   + TBD
+=======
+> **Class Code: PS1903 (TBD)**
+
++ Class #1 (**Review Part1 Operators/Variables/Data Structures**)
+  + 9/21/2019
+  + Upper East Side
++ Class #2 (**Review Part2 Loops/Conditionals/Functions**)
+  + 9/28/2019
+  + Upper East Side
++ Class #3 (**Problem #1 Fibonacci Sequence**)
+  + 10/5/2019
+  + Upper East Side
++ Class #4 (**Problem #2 Sieve of Eratosthenes**)
+  + 10/19/2019
+  + Upper East Side
++ Class #5 (**Problem #3 Probability**)
+  + 10/26/2019
+  + Upper East Side
++ Class #6 (**Problem #4 Permutations and Combinations**)
+  + 11/2/2019
+  + Upper East Side
++ Class #7 (**Problem #5 Time Series Analysis**)
+  + 11/9/2019
+  + Upper East Side
++ Class #8 (**Problem #6 Calculate Pi Using Monte Carlo**)
+  + 11/16/2019
+  + Upper East Side
++ Class #9 (**Problem #7 Date Math**)
+  + 11/23/2019
+  + Upper East Side
++ Class #10 (**Problem #8 Project Euler Questions**)
+  + 12/7/2019
+  + Upper East Side
++ Class #11 (**Problem #9 Workshop**) 
+  + 12/14/2019
+  + Upper East Side
+>>>>>>> Stashed changes
 =======
 > **Class Code: PS1903 (TBD)**
 
