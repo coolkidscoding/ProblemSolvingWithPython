@@ -8,7 +8,7 @@
   + Upper East Side
 + Class #2 (**Review Part2 Loops/Conditionals/Functions**)
   + 9/29/2019 @ 11am
-  + Upper West Side
+  + Upper East Side
 + Class #3 (**Problem #1 Fibonacci Sequence**)
   + 10/19/2019
   + TBD
@@ -37,6 +37,6 @@
   + 12/21/2019
   + TBD
 + Class #12 (**Final Test**)
-  + TBD
-  + TBD
+  + 12/21/2019
+  + Upper East Side
 
