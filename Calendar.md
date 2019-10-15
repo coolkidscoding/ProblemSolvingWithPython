@@ -9,10 +9,14 @@
   + 9/29/2019 @ 11am
   + Upper East Side
 + Class #3 (**Problem #1 Fibonacci Sequence**)
-  + 10/19/2019
-  + TBD
+  + 10/14/2019
+  + Upper East Side
++ Class #4 (**Review**)
+  + 10/20/2019
+  + Upper East Side
+  + Alex Only
 + Class #4 (**Problem #2 Sieve of Eratosthenes**)
-  + 10/26/2019
+  + 10/27/2019
   + TBD
 + Class #5 (**Problem #3 Probability**)
   + 11/2/2019

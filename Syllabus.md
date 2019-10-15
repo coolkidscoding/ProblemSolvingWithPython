@@ -93,34 +93,30 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
 
-+ **Lesson 4: Problem #2 Sieve of Eratosthenes** 
++ **Lesson 4: Review** 
+> Spend entire lesson working on review questions.
+
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson4Homework".
+
++ **Lesson 5: Problem #2 Sieve of Eratosthenes** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
 + Implement the solution
 + Check answer
 
-> **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson5Homework".
 
-+ **Lesson 5: Problem #3 Probability** 
++ **Lesson 6: Problem #3 Probability** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
 + Implement the solution
 + Check answer
 
-> **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson6Homework".
 
-+ **Lesson 6: Problem #4 Permutations and Combinations** 
-> Spend entire lesson working on:
-+ Understand the problem
-+ Create a strategy to solve the problem
-+ Implement the solution
-+ Check answer
-
-> **Homework**: Login to JupyterHub and open the notebook called "Lesson3Homework".
-
-+ **Lesson 7: Problem #5 Time Series Analysis** 
++ **Lesson 7: Problem #4 Permutations and Combinations** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -129,7 +125,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson7Homework".
 
-+ **Lesson 8: Problem #6 Calculating Pi Using Monte Carlo Simulation** 
++ **Lesson 8: Problem #5 Time Series Analysis** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -138,7 +134,16 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson8Homework".
 
-+ **Lesson 9: Problem #7 Date Math** 
++ **Lesson 9: Problem #6 Calculating Pi Using Monte Carlo Simulation** 
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
+
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson9Homework".
+
++ **Lesson 10: Problem #7 Date Math** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -147,16 +152,7 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".
 
-+ **Lesson 10: Problem #8 Project Euler Questions** 
-> Spend entire lesson working on:
-+ Understand the problem
-+ Create a strategy to solve the problem
-+ Implement the solution
-+ Check answer
-
-> **Homework**: Login to JupyterHub and open the notebook called "Lesson10Homework".
-
-+ **Lesson 11: Problem #9 Workshop** 
++ **Lesson 11: Problem #8 Project Euler Questions** 
 > Spend entire lesson working on:
 + Understand the problem
 + Create a strategy to solve the problem
@@ -165,8 +161,14 @@
 
 > **Homework**: Login to JupyterHub and open the notebook called "Lesson11Homework".
 
-+ **Lesson 12: Problem #10** 
-> This is the last class of this course.  In this course we are going to work on the solution to a problem.  In this class however the students will work on the solution on their own.
++ **Lesson 12: Problem #9 Workshop** 
+> Spend entire lesson working on:
++ Understand the problem
++ Create a strategy to solve the problem
++ Implement the solution
++ Check answer
+
+> **Homework**: Login to JupyterHub and open the notebook called "Lesson12Homework".
 
 ---
 ##### For questions contact _jimmy@coolkidscodingschool.com_
