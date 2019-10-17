@@ -10,6 +10,7 @@
   + Upper East Side
 + Class #3 (**Problem #1 Fibonacci Sequence**)
   + 10/14/2019
+  + Upper East Side
 + Class #4 (**Review**)
   + 10/20/2019
   + Upper East Side
