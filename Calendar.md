@@ -21,24 +21,24 @@
 + Class #5 (**Problem #3 Probability**)
   + 10/26/2019
   + TBD
-+ Class #6 (**Problem #3 Probability**)
++ Class #6 (**Problem #4 Permutations and Combinations**)
   + 11/2/2019
   + TBD
-+ Class #7 (**Problem #4 Permutations and Combinations**)
++ Class #7 (**Problem #5 Time Series Analysis**)
   + 11/9/2019
   + TBD
-+ Class #8 (**Problem #5 Time Series Analysis**)
++ Class #8 (**Problem #6 Calculate Pi Using Monte Carlo**)
   + 11/16/2019
   + TBD
-+ Class #9 (**Problem #6 Calculate Pi Using Monte Carlo**)
++ Class #9 (**Problem #7 Date Math**)
   + 11/23/2019
   + TBD
-+ Class #10 (**Problem #7 Date Math**)
++ Class #10 (**Problem #8 Project Euler Questions**)
   + 12/7/2019
   + TBD
-+ Class #11 (**Problem #8 Project Euler Questions**)
++ Class #11 (**Problem #9 Workshop**)
   + 12/14/2019
   + TBD
-+ Class #12 (**Problem #9 Workshop**) 
++ Class #12 (**Lesson 12: Problem #9 Workshop/Final Test**) 
   + 12/21/2019
   + TBD
