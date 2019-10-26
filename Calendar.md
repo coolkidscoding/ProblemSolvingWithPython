@@ -17,7 +17,7 @@
   + Alex Only
 + Class #4 (**Problem #2 Sieve of Eratosthenes**)
   + 10/27/2019
-  + TBD
+  + Upper East Side
 + Class #5 (**Problem #3 Probability**)
   + 10/26/2019
   + TBD
