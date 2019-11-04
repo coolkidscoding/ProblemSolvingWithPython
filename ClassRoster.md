@@ -7,7 +7,9 @@
 |:---|:-----------|:--|:--|:--|
 | Salvatore     | Alex      |  _asalvatore_ | 026 | PS1904 |
 | Hayden     | Finn      |  _fhayden_ | 027 | PS1904 |
+| Bhaman     | Ram      |  _rbhaman_ | 011 | APS1901 |
+| Chia     | Nico      |  _nchia_ | 012 | APS1901 |
 
 ---
 
-#### Registration is now OPEN for this session. <br> <center>Updated September 20, 2019
+#### Registration is now OPEN for this session. <br> <center>Updated November 4, 2019
