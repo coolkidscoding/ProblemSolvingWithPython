@@ -24,7 +24,7 @@
   + Alex Only
 + Class #6 (**Problem #3 Probability**)
   + 11/10/2019
-  + TBD
+  + Upper East Side
 + Class #7 (**Problem #4 Permutations and Combinations**)
   + 11/17/2019
   + TBD
