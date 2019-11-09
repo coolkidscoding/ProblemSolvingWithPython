@@ -22,7 +22,7 @@
   + 11/3/2019
   + Upper East Side
   + Alex Only
-+ Class #6 (**Problem #3 Probability**)
++ Class #6 (**Problem #6 Calculate Pi Using Monte Carlo**)
   + 11/10/2019
   + Upper East Side
 + Class #7 (**Problem #4 Permutations and Combinations**)
@@ -31,7 +31,7 @@
 + Class #8 (**Problem #5 Time Series Analysis**)
   + 12/1/2019
   + TBD
-+ Class #9 (**Problem #6 Calculate Pi Using Monte Carlo**)
++ Class #9 (**Problem #3 Probability**)
   + 12/8/2019
   + TBD
 + Class #10 (**Problem #7 Date Math**)
