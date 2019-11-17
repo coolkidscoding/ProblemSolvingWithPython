@@ -25,13 +25,13 @@
 + Class #6 (**Problem #6 Calculate Pi Using Monte Carlo**)
   + 11/10/2019
   + Upper East Side
-+ Class #7 (**Problem #4 Permutations and Combinations**)
++ Class #7 (**Problem #3 Probability**)
   + 11/17/2019
-  + TBD
-+ Class #8 (**Problem #5 Time Series Analysis**)
+  + Upper East Side
++ Class #8 (**Problem #4 Permutations and Combinations**)
   + 12/1/2019
   + TBD
-+ Class #9 (**Problem #3 Probability**)
++ Class #9 (**Problem #5 Time Series Analysis**)
   + 12/8/2019
   + TBD
 + Class #10 (**Problem #7 Date Math**)
