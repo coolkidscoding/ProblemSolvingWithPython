@@ -12,7 +12,7 @@
   + 2/3/2020
   + Upper West Side
 + Class #4 (**Problem #4 Probability**)
-  + 2/10/2020
+  + 2/11/2020
   + Upper West Side
 + Class #5 (**Problem #5 Time Series Analysis**)
   + 2/19/2020
