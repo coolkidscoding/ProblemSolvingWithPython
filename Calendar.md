@@ -15,6 +15,7 @@
   + 2/10/2020
   + Upper West Side
 + Class #5 (**Problem #5 Time Series Analysis**)
+  + 2/19/2020
   + Upper West Side
 + Class #6 (**Problem #6 Calculate Pi Using Monte Carlo**)
   + 3/3/2020
