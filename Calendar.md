@@ -23,10 +23,10 @@
 + Class #7 (**Problem #7 Date Math**)
   + 3/10/2020
   + Upper West Side
-+ Class #8 (**TBD**)
++ Class #8 (**Object Oriented Programming**)
   + 3/31/2020
   + Upper West Side
-+ Class #9 (**TBD**)
++ Class #9 (**Object Oriented Programming (Project)**)
   + 4/7/2020
   + Upper West Side
 + Class #10 (**TBD**)
