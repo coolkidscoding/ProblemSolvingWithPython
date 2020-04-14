@@ -13,14 +13,6 @@
 > 1.0 Overview
 
 In this lesson we are going to start by reviewing the important concepts from the last lesson.  Once we are done with our review we are going to take a break from game development to discuss an important topic that is necessary before we proceed with game development.  We will introduce a concept called Object Oriented Programming.  This is an advanced topic that we will only scratch the surface on.  
-Once we complete this lesson we will be ready to introduce Sprites. Sprites are 2D game objects that a user interacts with or that move independently on the screen.  In the next lesson we will discuss how to create sprites and how to identify when we collide with a sprite.  
-
-> 2.0 Review
-
-Let's review what we discussed in the last lesson.  
-
-+ We discussed how we control the game clock to target a certain FPS.  How do we do that?
-+ We discussed and implemented how we moved our stick man around the screen by only using keyboard controls.
 
 > 3.0 What is Object Oriented Programming?
 

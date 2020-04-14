@@ -25,17 +25,17 @@
   + Upper West Side
 + Class #8 (**Object Oriented Programming**)
   + 3/31/2020
-  + Upper West Side
+  + Remote Learning
 + Class #9 (**Object Oriented Programming (Project)**)
   + 4/7/2020
-  + Upper West Side
-+ Class #10 (**TBD**)
+  + Remote Learning
++ Class #10 (**AI K Nearest Neighbors**)
   + 4/14/2020
-  + Upper West Side
-+ Class #11 (**TBD**)
+  + Remote Learning
++ Class #11 (**AI K Nearest Neighbors (Part 2)**)
   + 4/21/2020
-  + Upper West Side
+  + Remote Learning
 + Class #12 (**Final Exam**)
   + 4/28/2020
-  + Upper West Side
+  + Remote Learning
 
