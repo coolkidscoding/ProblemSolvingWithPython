@@ -29,13 +29,13 @@
 + Class #9 (**Object Oriented Programming (Project)**)
   + 4/7/2020
   + Remote Learning
-+ Class #10 (**AI K Nearest Neighbors**)
++ Class #10 (**Object Oriented Programming (Project Part 2)**)
   + 4/14/2020
   + Remote Learning
-+ Class #11 (**AI K Nearest Neighbors (Part 2)**)
++ Class #11 (**AI K Nearest Neighbors**)
   + 4/21/2020
   + Remote Learning
-+ Class #12 (**Final Exam**)
++ Class #12 (**TBD**)
   + 4/28/2020
   + Remote Learning
 
