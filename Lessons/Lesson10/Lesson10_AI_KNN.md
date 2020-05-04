@@ -110,6 +110,7 @@ Looking at a scatterplot of the data we see there is some order.
 
 ![alt text][iris_scatter]
 
+Ok, the last unanswered part before we start coding is "How do we choose that magical k"? The answer is idk. Smaller k values in most cases is highly affected to noise in the dataset - this is called a model with a high variance or simply overfitted model. Bigger k values lead to bigger bias of the model meaning that it would ignore the training dataset. The general approach is to use k=√​N​​​, where N is the size of the training dataset. It's also useful to always keep this number odd - to ensure the majority during voting for classification. 
 
 ---
 
