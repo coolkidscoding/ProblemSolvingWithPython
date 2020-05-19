@@ -89,10 +89,13 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 [virginica]: ./images/iris_virginica.jpg
 [versicolor]: ./images/iris_versicolor.jpg
 
+### Setosa
 ![alt text][setosa]
 
+### Virginica
 ![alt text][virginica]
 
+### Versicolor
 ![alt text][versicolor]
  ​​
 
